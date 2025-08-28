@@ -1,4 +1,4 @@
-#  Magical Discount Calculator 🌟
+#  Magical Discount Calculator 
 # This script sprinkles some discount magic on your shopping!
 
 #  Function to calculate the final price after discount
